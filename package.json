@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
+  "keywords": ["freecodecamp","task","certificate"],
   "description": "A project that does something awesome",
   "version": "1.0.0",
   "devDependencies": {
